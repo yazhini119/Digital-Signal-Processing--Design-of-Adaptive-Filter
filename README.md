@@ -68,7 +68,8 @@ title('Error Signal');
 ```
 
 ## OUTPUT:
-<img width="1396" height="714" alt="image" src="https://github.com/user-attachments/assets/1e7f46a5-506f-4e86-a801-c041dfab8c9b" />
+<img width="1396" height="714" alt="image" src="https://github.com/user-attachments/assets/38e6b831-a401-4f93-8cf7-502035967237" />
+
 
 
 ## RESULT:
